@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{20C3AD34-CF9D-4B0E-93C2-4EA1D738E813}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSocket/Program.cs">
+    <Files>
+      <File FileName="WebSocket/Program.cs" Line="16" Column="1" IsPinned="True" />
+      <File FileName="WebSocket/Properties/launchSettings.json" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebSocket PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
